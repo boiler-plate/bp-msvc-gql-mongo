@@ -1,0 +1,19 @@
+{
+  "name": "bp-msvc-gql-mongo",
+  "version": "1.0.0",
+  "description": "boilerplate for gql mongo microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boiler-plate/bp-msvc-gql-mongo.git"
+  },
+  "author": "Riggan Hart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boiler-plate/bp-msvc-gql-mongo/issues"
+  },
+  "homepage": "https://github.com/boiler-plate/bp-msvc-gql-mongo#readme"
+}
